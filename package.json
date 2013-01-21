@@ -1,0 +1,44 @@
+{
+  "name": "mb-mongoose-alias",
+  "description": "MBMongooseAlias",
+  "version": "0.1.0",
+  "author": {
+    "name": "Martin Biermann",
+    "email": "info@martinbiermann.com"
+  },
+  "keywords": [
+  ],
+  "dependencies": {
+    "mongoose-aliasfield": "0.0.2"
+  },
+  "devDependencies": {
+  },
+  "directories": {
+    "lib": "./lib/"
+  },
+  "scripts": {
+    "pretest": "make build",
+    "test": "make test",
+    "prepublish": "make build"
+  },
+  "main": "./index.js",
+  "engines": {
+    "node": ">= 0.8.6"
+  },
+  "bugs": {
+    "url": "",
+    "email": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://"
+  },
+  "homepage": "http://martinbiermann.com",
+  "readme": "## ",
+  "_id": "mb-mongoose-alias@0.1.0",
+  "dist": {
+    "shasum": ""
+  },
+  "_from": "mb-mongoose-alias",
+  "private": true
+}
